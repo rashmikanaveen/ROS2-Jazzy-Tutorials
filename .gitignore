@@ -33,6 +33,7 @@
 
 # Virtual Env
 .venv
+venv
 
 # Text files
 *.txt
